@@ -7,4 +7,6 @@ you need a mongodb database on port 27017 (localhost too!) with discord-bot data
 nodejs v16 is what i use, no idea if this works for other versions.
 
 
+ALSO REPLACE THE FILE env WITH .env TY!!
+
 also this is using banner.yt :)
